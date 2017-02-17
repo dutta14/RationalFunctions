@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rational Functions</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">Enter F(x)/G(x)</string>
+    <string name="btnmsg">Find h(x)= f(x)/g(x)</string>
+    <string name="fx">Enter the function</string>
+    <string name="gx">Enter g(x)</string>
+    <string name="solve">Solve f(x) for x=g(x)</string>
+    <string name="draw">Make graph for h(x)</string>
+    <string name="title_activity_graph">Graph</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="seeg">Plot graph</string>
+
+</resources>
